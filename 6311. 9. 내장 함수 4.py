@@ -1,2 +1,0 @@
-data = "ADCBBBBCABBCBDACBDCAACDDDCAABABDBCBCBDBDBDDABBAAAAAAADADBDBCBDABADCADC"
-print(sum(list(map(lambda x: ord('E') - ord(x), data))))
