@@ -35,3 +35,4 @@ print(''.join(str_list))
 #     if i not in vowels:
 #         word.append(i)
 #     print(''.join(str(word)))
+
