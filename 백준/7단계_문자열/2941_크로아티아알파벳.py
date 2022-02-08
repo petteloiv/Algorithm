@@ -51,4 +51,21 @@ for i in rp_word:
         word = word.replace(i, '*')
     else:
         continue
+# print(word)
 print(len(word))
+
+# 호준님 코드
+
+cro = ['c=', 'c-', 'dz=', 'd=', 'lj', 'nj', 's=', 'z=']
+cnt = 0
+for alphabet in cro:
+    if alphabet in word:
+        if word.count(alphabet) >= 2:
+            cnt += word.count(alphabet) - 1
+        cnt += 1
+        word = word.replace(alphabet, ' ')
+# a = a.replace('-', '')
+# a = a.replace('=', '')
+word = word.replace(' ', '')
+cnt += len(word)
+print(cnt)
