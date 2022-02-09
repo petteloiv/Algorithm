@@ -9,7 +9,14 @@
 
 
 # trial 2 - 출력 형식이 잘못 되었습니다.
-# n = int(input())
+n = int(input())
 
-# for i in range(1, n+1):
-#     print(' '*(n-i),'*'*i)
+for i in range(1, n+1):
+    print(' '*(n-i),'*'*i)
+
+# 내 코드랑 뭐가 다르지 ..? 
+# 알아냈다.. , 가 아니라 + 였다..
+# 문자열끼리 더하는거였음 ..
+a=int(input())
+for i in range(1,a+1):
+    print(" "*(a-i) + "*"*i)
