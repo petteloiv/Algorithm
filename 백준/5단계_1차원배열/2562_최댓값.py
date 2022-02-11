@@ -19,5 +19,5 @@ for i in range(len(numbers)):
         idx = i
         maxnumber = numbers[i]
 print(maxnumber)
-# 인덱스 0부터 셌는데 숫자는 1부터로 세니까 인덱스 +1 
+# 인덱스 0부터 셌는데 숫자는 1부터 세니까 인덱스 +1 
 print(idx+1)
