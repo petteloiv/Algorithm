@@ -9,7 +9,23 @@
 import sys
 sys.stdin=open('inpput.txt')
 
-T = 2
+T = int(input())
 
 for tc in range(1,T+1):
+    # 노드의 개수
     N = int(input())
+    # N-1 개의 줄에 출력
+    arr = list(list(map(int, input().split())) for _ in range(N-1))
+    print(arr)
+
+    # 앞이 부모,.. 뒤가 자식
+    # 자식 인덱스에 부모 값 넣어서 출력하면 되지 않을까 ...
+
+    v = [0] * (N+1)
+
+    for i in arr:
+        v[i[1]] = i[0]
+
+
+    print(v)
+
