@@ -2,22 +2,23 @@
 import sys
 sys.stdin=open('input.txt')
 
-T = int(input())
 
-for tc in range(1,T+1):
-    n, m = map(int, input().split())
-    # print(f'#{tc} {n} {m}')
+def dfs(start):
+    if len(lst) == m:
+        print(' '.join(map(str, lst)))
+        return
 
-    lst = []
-    def dfs(start):
-        if len(lst) == m:
-            print(' '.join(map(str,lst)))
-            return
+    # 여기서 시작점을 start로 준다! 중복 막기 위해서 ..
+    for i in range(start, n + 1):
+        if i not in lst:
+            lst.append(i)
+            dfs(i + 1)
+            lst.pop()
 
-        for i in range(start, n+1):
-            if i not in lst:
-                lst.append(i)
-                dfs(i+1)
-                lst.pop()
 
-    dfs(1)
+n, m = map(int, input().split())
+# print(f'#{tc} {n} {m}')
+
+lst = []
+
+dfs(1)
