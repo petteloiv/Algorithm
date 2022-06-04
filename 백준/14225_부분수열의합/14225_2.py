@@ -1,4 +1,6 @@
 from itertools import combinations
+import sys
+sys.stdin=open('input.txt')
 
 n = int(input())
 s = list(map(int, input().split()))
