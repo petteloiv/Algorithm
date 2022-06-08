@@ -9,10 +9,10 @@ for i in range(6):
 
 lst = []
 
-for i in range(1,6,2):
+for i in range(0,6,2):
     lst.append(a[i])
 
-for i in range(0,6,2):
+for i in range(1,6,2):
     lst.append(a[i])
 
 print(lst)
