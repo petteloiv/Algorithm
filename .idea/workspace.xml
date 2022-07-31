@@ -33,6 +33,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="190" />
+    <option name="y" value="81" />
+    <option name="width" value="1187" />
+    <option name="height" value="968" />
+  </component>
   <component name="ProjectId" id="26NQd0IN0HqwtyoryELhXG5Q21c" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,7 +50,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../월말평가_알고리즘" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -162,6 +168,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.15649_N과M(1)" />
+      <item itemvalue="Python.15650_2" />
+      <item itemvalue="Python.15650_N과M(2)" />
+      <item itemvalue="Python.2675" />
+      <item itemvalue="Python.2920_음계" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.2920_음계" />
