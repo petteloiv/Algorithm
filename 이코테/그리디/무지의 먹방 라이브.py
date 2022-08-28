@@ -27,3 +27,5 @@ def solution (food_times, k):
     else:
         return -1
 
+
+print(solution([3, 1, 2], 5))
