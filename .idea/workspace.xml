@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6434330e-57ca-46e5-af2f-cbd2a65e5d58" name="Default Changelist" comment="0314">
-      <change beforePath="$PROJECT_DIR$/이코테/구현/문자열 압축.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/구현/문자열 압축.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +14,23 @@
     <session id="574182074">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.3" value="6" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="18" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="18" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -38,13 +38,13 @@
           <entry key="1이될때까지" value="10" />
           <entry key="Python Console" value="1" />
           <entry key="dummy" value="5" />
-          <entry key="py" value="8394" />
+          <entry key="py" value="8688" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="8405" />
+          <entry key="Python" value="8699" />
         </counts>
       </usages-collector>
     </session>
@@ -85,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/이코테/구현/럭키스트레이트.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -94,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/이코테/구현/문자열 재정렬.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -103,26 +103,34 @@
         <entry file="file://$PROJECT_DIR$/이코테/구현/문자열 압축.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding>
                 <marker date="1661694888162" expanded="true" signature="1269:1270" ph="..." />
                 <marker date="1661694888162" expanded="true" signature="1269:1292" ph="..." />
-                <marker date="1661694888162" expanded="true" signature="2845:3323" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/이코테/구현/자물쇠와 열쇠.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/백준/1057_토너먼트.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/이코테/구현/뱀.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+            <state relative-caret-position="1064">
+              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -167,14 +175,15 @@
         <option value="$PROJECT_DIR$/이코테/구현/문자열 압축.py" />
         <option value="$PROJECT_DIR$/이코테/구현/자물쇠와 열쇠.py" />
         <option value="$PROJECT_DIR$/이코테/구현/뱀.py" />
+        <option value="$PROJECT_DIR$/백준/1057_토너먼트.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="916" />
-    <option name="y" value="32" />
-    <option name="width" value="1003" />
-    <option name="height" value="967" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1222" />
+    <option name="y" value="31" />
+    <option name="width" value="697" />
+    <option name="height" value="968" />
   </component>
   <component name="ProjectId" id="26NQd0IN0HqwtyoryELhXG5Q21c" />
   <component name="ProjectLevelVcsManager">
@@ -185,7 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,24 +204,13 @@
             <path>
               <item name="4828.1일차_minmax.py" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="이코테" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4828.1일차_minmax.py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="이코테" type="462c0819:PsiDirectoryNode" />
-              <item name="구현" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4828.1일차_minmax.py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="이코테" type="462c0819:PsiDirectoryNode" />
-              <item name="그리디" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -247,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.문자열 압축">
+  <component name="RunManager" selected="Python.모험가길드">
     <configuration name="무지의 먹방 라이브" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -440,15 +437,11 @@
     <list>
       <item itemvalue="Python.모험가길드" />
       <item itemvalue="Python.무지의 먹방 라이브" />
-      <item itemvalue="Python.럭키스트레이트" />
       <item itemvalue="Python.문자열 재정렬" />
-      <item itemvalue="Python.문자열 압축" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.문자열 압축" />
         <item itemvalue="Python.문자열 재정렬" />
-        <item itemvalue="Python.럭키스트레이트" />
         <item itemvalue="Python.무지의 먹방 라이브" />
         <item itemvalue="Python.모험가길드" />
       </list>
@@ -582,15 +575,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="733" y="26" width="802" height="773" extended-state="1" />
+    <frame x="978" y="25" width="557" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659713" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.265625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2139535" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2139535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -726,38 +719,44 @@
     <entry file="file://$PROJECT_DIR$/이코테/구현/럭키스트레이트.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/이코테/구현/문자열 재정렬.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/이코테/구현/문자열 압축.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <marker date="1661694888162" expanded="true" signature="1269:1270" ph="..." />
             <marker date="1661694888162" expanded="true" signature="1269:1292" ph="..." />
-            <marker date="1661694888162" expanded="true" signature="2845:3323" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/이코테/구현/뱀.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        <state relative-caret-position="1064">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/이코테/구현/자물쇠와 열쇠.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/1057_토너먼트.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
