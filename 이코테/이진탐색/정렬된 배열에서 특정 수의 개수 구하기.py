@@ -17,6 +17,7 @@ N, x = map(int,input().split())
 numbers = list(map(int, input().split()))
 
 x_counter = Counter(numbers)
+print(x_counter)
 
 if x_counter[x] == 0:
     print(-1)
